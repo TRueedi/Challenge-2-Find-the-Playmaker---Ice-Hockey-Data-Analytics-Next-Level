@@ -2,3 +2,7 @@
 
 
 ![Hockey Rink](./hockey.png)
+
+## Kafka Logic Pipeline per Event
+
+![kafka-Logik](./img/kafka-Logik.png)
